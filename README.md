@@ -14,7 +14,7 @@ This project is a dynamic movie website that allows users to explore various mov
 
 #Technologies Used
 
-HTML
-CSS
-JavaScript
+HTML,
+CSS,
+JavaScript &
 JSON for data storage
