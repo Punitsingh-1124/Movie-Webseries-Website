@@ -20,4 +20,5 @@ JavaScript &
 JSON for data storage
 
 Screen Shot:
+![Screenshot 2024-10-26 134318](https://github.com/user-attachments/assets/82e24ce2-c41e-4a79-8461-9c9cd35144c8)
 
