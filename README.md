@@ -1,6 +1,6 @@
 # Movie-Webseries-Websit
 Project Overview
-This project is a dynamic movie website that allows users to explore various movies and series. Key features include:
+This project is a dynamic movie & Webseries website that allows users to explore various movies and series. Key features include:
 
 1.Responsive Design: Utilizes HTML, CSS, and Bootstrap icons for a visually appealing interface.
 
